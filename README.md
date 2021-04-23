@@ -1,5 +1,9 @@
 # GoBarber Web
 
+<p align="center">
+  <img src="resources/logo.svg" alt="logo" />
+</p>
+
 This is the repository for the GoBarber web application.
 If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
 
