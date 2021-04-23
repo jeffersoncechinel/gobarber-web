@@ -1,7 +1,7 @@
 # GoBarber Web
 
 This is the repository for the GoBarber web application.
-If you don't know what GoBarber is, please have a look [here](https://github.com/jeffersoncechinel/gobarber).
+If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
 
 Its purpose is to consume the API and provide the barber with visibility of past and next client's appointments.
 
