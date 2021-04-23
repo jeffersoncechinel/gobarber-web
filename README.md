@@ -31,7 +31,7 @@ Requirements
 
 Let's get started
 ----
-* Important! Before you begin make sure you have the [GoBarber API](https://github.com/jeffersoncechinel/gobarber-api) up and running.
+:exclamation: Before you begin make sure you have the [GoBarber API](https://github.com/jeffersoncechinel/gobarber-api) up and running.
 
 ```
 # clone the repository
