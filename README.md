@@ -7,7 +7,7 @@
 This is the repository for the GoBarber web application.
 If you don't know what GoBarber is please have a look [here](https://github.com/jeffersoncechinel/gobarber).
 
-The project purpose is to consume the API and provide the barber with visibility of past and next client's appointments.
+The purpose of this project is to consume the API and provide the barber with visibility of past and next client's appointments.
 
 You may also want to see the [GoBarber API repository](https://github.com/jeffersoncechinel/gobarber-api)  
 You may also want to see the [GoBarber Mobile repository](https://github.com/jeffersoncechinel/gobarber-mobile)
