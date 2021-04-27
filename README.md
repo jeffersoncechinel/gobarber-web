@@ -14,7 +14,7 @@ You may also want to see the [GoBarber Mobile repository](https://github.com/jef
 
 ![Data Flow](resources/gobarber-web.png?raw=true "Data Flow")
 
-The application is written in ReactJS + Styled Components based on Typescript.
+The application is written in Typescript + ReactJS + Styled Components.
 
 Features
 ----
